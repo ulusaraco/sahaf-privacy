@@ -4,7 +4,7 @@ Son güncelleme / Last updated: 14 Ekim 2026
 
 ## Türkçe
 
-**Sahaf** ("uygulama"), Metehan Demirbaş tarafından geliştirilen, çevrimdışı oynanan bir kitap düzenleme oyunudur.
+**Sahaf** ("uygulama"), Özlem Ulusaraç tarafından geliştirilen, çevrimdışı oynanan bir kitap düzenleme oyunudur.
 
 **Topladığımız veriler:** Hiçbiri. Uygulama kişisel veri toplamaz, hesap/üyelik istemez, reklam göstermez, üçüncü taraf analiz veya takip aracı kullanmaz ve internete bağlanmaz.
 
@@ -20,7 +20,7 @@ Son güncelleme / Last updated: 14 Ekim 2026
 
 ## English
 
-**Sahaf** (the "app") is an offline book-sorting game developed by Metehan Demirbaş.
+**Sahaf** (the "app") is an offline book-sorting game developed by Özlem Ulusaraç.
 
 **Data we collect:** None. The app does not collect personal data, require an account, show ads, use third-party analytics or tracking, or connect to the internet.
 
